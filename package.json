@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-tutorial",
+  "version": "0.1.0",
+  "description": "This is a nodejs tutorial using expressjs as the server framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msn-academy/nodejs-tutorial.git"
+  },
+  "author": "Temitayo Fadojutimi <fadojutimitemitayo@gmail.com> (http://twitter.com/adesege_)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/msn-academy/nodejs-tutorial/issues"
+  },
+  "homepage": "https://github.com/msn-academy/nodejs-tutorial#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
